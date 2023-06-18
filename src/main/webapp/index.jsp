@@ -11,8 +11,8 @@
   <label for="lname">fullname:</label><br>
   <input type="text"  name="lname" value="enter your full name"><br><br>
   <input type="submit" value="Submit">
-<h1>> this testing from deployment as a pipeline</h1>
-<h1>> automate code from github using webhooks</h1>
+<h1>this testing from deployment as a pipeline</h1>
+<h1>automate code from github using webhooks</h1>
 </form>
 </body>
 </html>
